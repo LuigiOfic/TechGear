@@ -7,7 +7,7 @@
 
 ### Integrantes:
   <h3>
-  fabricio<br>
+  Fabricio<br>
   Gabriel<br>
   Leonardo<br>
   Luigi<br>
