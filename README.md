@@ -9,7 +9,7 @@
   <h3>
   Fabricio<br>
   Gabriel<br>
- <span style="color:red">Leonardo<br></span>
+ Leonardo<br>
   Luigi<br>
   Marcos<br>
   Thierry<br>
