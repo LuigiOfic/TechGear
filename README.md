@@ -15,3 +15,4 @@
   Thierry<br>
   </h3>
 
+![logo](https://github.com/LuigiOfic/TechGear/assets/137228665/53a5f6ad-b91e-4cea-8f51-4ffcb5c3a95a)
