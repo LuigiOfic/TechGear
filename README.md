@@ -14,4 +14,4 @@
   Marcos<br>
   Thierry<br>
   </h3>
-![Gráfico de Contribuição](https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO)
+
