@@ -15,7 +15,7 @@
   Thierry<br>
   </h3>
 
-### Logo
+### Logo:
 ![logo](https://github.com/LuigiOfic/TechGear/assets/137228665/2d1d474a-d9b3-4828-aa08-a71113bd533a)
 
 ### Documentação WIKI
