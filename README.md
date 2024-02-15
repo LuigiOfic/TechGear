@@ -16,7 +16,8 @@
   </h3>
 
 ### Logo:
-![logo](https://github.com/LuigiOfic/TechGear/assets/137228665/2d1d474a-d9b3-4828-aa08-a71113bd533a)
+![testeLogo (1) 2](https://github.com/LuigiOfic/TechGear/assets/137228665/032ce00d-2ba1-43d6-9b73-583c65cad61b)
+
 
 ### Documentação WIKI
 
