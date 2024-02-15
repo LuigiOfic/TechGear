@@ -1,0 +1,7 @@
+1- npx create-expo-app --template blank
+2- npm install
+3- npm install firebase
+4- npm install @react-navigation/native @react-navigation/native-stack
+5- npx expo install react-native-screens react-native-safe-area-context
+6- npx expo install react-native-web react-dom @expo/metro-runtime
+7- npx expo start
