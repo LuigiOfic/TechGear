@@ -1,0 +1,24 @@
+		Dentes Helicoidais
+
+	VARIÁVEIS: 
+
+		Mt = Módulo de passo Helicoidal
+		Mn = Modulo Normal
+		Pt = Passo Helicoidal
+		Pn = Passo normal
+		B = Angulo de Inclinação (Geralmente de 8º até 25º)
+		z, z1, z2 = Numero de Dentes
+		d, d1, d2 = Circulos Primitivos
+		Da = Circulo da cabeca
+		a = Distancia entre eixos
+
+	FÓRMULAS: 
+		
+		Mt = Mn/CosB
+		Pt = Pn/Cosb
+		D = Mt
+		z = d/Mt
+		Mn = Pn/Pi
+		Pn = Pi*Mn
+		Da = d+2*Mn
+		A = d1 + d1 / 2
