@@ -1,8 +1,0 @@
-alunos {numMatri, nome, sobrenome, email, senha}
-
-professores {nif, nome, sonrenome, email, senha}
-resultado engrenagem dentes conicos {id, diâmetro coroa, passo axial, raio topo coroa, diâmetro primitivo, passo coroa, diâmetro externo, raio topo coroa2, parafuso sem fim, passo axial parafuso ,altura elevacao}
-
-resultado engrenagem dentes helicoidas {id, diâmetro primitivo, modulo normal, passo normal, circulo primitivo, circulo cabeça, distancia eixos interno}
-
-resultado engrenagem dentes retos {id, circulo primitivo, passo, folga da cabeça, altura cabeça dente, altura pe dente, altura dente, circulo cabeça , circulo pe, distecia dos eixos, circulo da cabeca interno, circulo pe interno, distecia dos eixos interno }
