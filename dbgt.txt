@@ -1,9 +1,0 @@
-INSERT INTO aluno (numMatri, nome, email, turma, senha) VALUES
-('12345678', 'João', 'joao@example.com', 'A101', 'senha123'),
-('9992459', 'Maria', 'maria@example.com', 'B202', 'abc123'),
-('0132748', 'Pedro','pedro@example.com', 'C303', 'pass456');
-
-INSERT INTO professores (nif, nome, email, senha) VALUES
-('80070977', 'Silva', 'silva@example.com', 'ola'),
-('20254394', 'Santos', 'santos@example.com', 'oba'),
-('30356475', 'Oliveira', 'oliveira@example.com', 'bom');
